@@ -30,6 +30,7 @@ In no particular order
 * Ronald Brachetti
 * York Xylander
 * Markus Decke
+* Philipp Rosenkranz
 * others (please add your names by yourself)
 
 ## FAQ
