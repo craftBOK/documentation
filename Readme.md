@@ -29,6 +29,7 @@ In no particular order
 
 * Ronald Brachetti
 * York Xylander
+* Markus Decke
 * others (please add your names by yourself)
 
 ## FAQ
