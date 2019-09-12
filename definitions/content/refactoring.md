@@ -15,7 +15,7 @@ The internal structure of software systems - even when originally designed caref
 Refactoring reverses this decay process by focusing on the internal structure.
 
 A single refactoring is a small and simple change, so the risk of breaking is low.
-Each structural change must be guarded by tests ensuring the exeternal behavior does not change.
+Each structural change must be guarded by tests ensuring the external behavior does not change.
 To achieve a substantial improvement, many single refactorings are applied sequentially.
 Typical code smells can be tackled with specific refactorings.
 
@@ -25,7 +25,7 @@ Typical code smells can be tackled with specific refactorings.
 
 ## Resources
 
-* :book: [Refactoring by MArtin Fowler with Kent Beck](https://martinfowler.com/books/refactoring.html)
+* :book: [Refactoring by Martin Fowler with Kent Beck](https://martinfowler.com/books/refactoring.html)
 * :bulb: [Refactoring catalog](https://refactoring.com/catalog/)
 * :bulb: [Refactoring: clean your code](https://refactoring.guru/refactoring)
 
