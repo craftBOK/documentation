@@ -20,7 +20,7 @@ To achieve a substantial improvement, many single refactorings are applied seque
 Typical code smells can be targeted with specific refactorings.
 
 Modern IDEs support a varying number of refactorings.
-Tool support should be preferred since it speeds you up and reduces the chance of breaking the code base, e.g. when you move a field all references to that field will be updated automatically.
+Tool support should be preferred since it speeds you up and reduces the chance of breaking the code base, e.g. when you rename a field all references to that field will be renamed automatically.
 
 ## Requirements
 
