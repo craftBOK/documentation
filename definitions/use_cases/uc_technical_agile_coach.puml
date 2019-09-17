@@ -1,0 +1,15 @@
+@startuml
+
+skinparam Monochrome true
+
+:Technical Agile Coach: as TAC <<Consumer>>
+
+usecase TAC1 as "refering to a community system
+==
+..Story..
+As a Technical Agile Coach
+I want to write a comment for a certain practice to share my experiences
+"
+TAC --> TAC1
+
+@enduml
