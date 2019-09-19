@@ -4,10 +4,12 @@
         {% for page in include.pages %}
             {% if page.type == "content" %}
                 {% assign in_tag_list=false %}
-                {% for tag in include.tags %}
+                {% for tag in include.current_page.tags %}
                     {% if page.tags contains tag %}
-                        {% assign in_tag_list=true %}
-                        {% break %}   
+                        {% if page.url != include.current_page.url %}
+                            {% assign in_tag_list=true %}
+                            {% break %} 
+                        {% endif %}  
                     {% endif %}
                 {% endfor %}
                 {% if in_tag_list==true %}

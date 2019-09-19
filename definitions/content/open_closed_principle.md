@@ -2,7 +2,7 @@
 type: content
 title: Open Closed Principle
 layout: practice
-tags: solid, principles
+tags: [solid, principles]
 ---
 # Open Closed Principle
 

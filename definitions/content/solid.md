@@ -2,7 +2,7 @@
 type: content
 title: SOLID
 layout: practice
-tags: solid, principles
+tags: [solid, principles]
 ---
 # SOLID
 

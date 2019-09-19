@@ -2,7 +2,7 @@
 type: content
 title: Kata Workshop
 layout: practice
-tags: [workshop, teaching, learning]
+tags: [workshop, teaching, learning, kata]
 ---
 # Kata Workshop
 

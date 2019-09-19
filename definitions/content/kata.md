@@ -2,7 +2,7 @@
 type: content
 title: Katas
 layout: practice
-tags: [principles, kata]
+tags: [principles, kata, learning]
 ---
 # Kata
 
