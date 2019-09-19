@@ -1,6 +1,8 @@
 ---
+title: Pair programming
+layout: practice
 type: content
-tags: practice
+tags: [practice, collaboration]
 ---
 # Pair Programming
 

@@ -1,8 +1,10 @@
 ---
 type: content
-tags: [practice]
+title: Test driven development
+layout: practice
+tags: [practice, maintainability]
 ---
-# Test-driven development
+# Test driven development
 
 Why: test coverage, code quality, finding solutions to hard problems, knowledge sharing
 
