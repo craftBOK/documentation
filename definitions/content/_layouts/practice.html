@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="columns">
+        <div class="column col-10 col-mx-auto">
+            <article>
+                {{ content }}
+            </article>
+        </div>
+        <div class="column col-10 col-mx-auto">
+            {% include related-practices.html pages=site.pages tags=page.tags %}
+        </div>
+    </div>
+</div>

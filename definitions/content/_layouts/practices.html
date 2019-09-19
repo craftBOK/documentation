@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="columns">
+        {% for page in site.pages %}
+        {% if page.type == "content" %}
+		<div class="column col-3 col-lg-3 card-min-width">
+			<a href="{{ page.url }}">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://dummyimage.com/600x400/000/fff.png" class="img-responsive">
+					</div>
+					<div class="card-header">
+						<div class="card-title h5">{{ page.title }}</div>
+					</div>				
+                </div>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+	</div>
+</div>
