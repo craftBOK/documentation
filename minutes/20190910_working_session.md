@@ -1,19 +1,14 @@
-# Meeting from 06.08.2019
+# Meeting from 10.09.2019
 ## Attendees
 * York Xylander
-* Ronald Brachetti
 * (others, please add yourselves)
 
 ## Minutes
-* Ron shared critical feedback he has recieved with respect to our project
- * We decided to remove all company names
- * We will have to reformulate some passages
- * We will add an FAQ section to clarify our intentions.
- * We must be more explicit about the license we will use for the content. CC BY-SA?    
-* We had a discussion which stakeholders are most imported and ended up with
- * Technical Coach, Lead Developer, Developer, CopDev
-* We continued the brainstorming
-![Work In Progress](IMG_0913.jpg)
-* Next Steps
- * York will type down all use-cases/stakeholders
- * Ron/Philipp are thinking of giving sessions about CraftBOK at socrates conference to gather more feedback  
+* Unfortunately York had not invited all community members :-(
+* Philipp gave a recap of the CraftBOK sessions at the Socrates Conf
+* As Uli/Philipp will soon give a XP-Workshop covering TDD,Refactoring,PairProgramming,MobProgramming they will create content for these practices
+* That workshop will give us the opportunity to test some hypotheses
+  * Uli would act as TAC: does the material help in preparation?  
+  * The participants of the workshop would act as Consumers: does the material help during the session?
+* The results of that work and the feedback could then be shared in a upcoming software handwerkskammer meetup
+* After that round we should be in state to ask more people to join.
