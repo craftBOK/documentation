@@ -1,7 +1,7 @@
 ---
-category: practice
 title: Refactoring
 layout: practice
+type: practice
 tags: [practice, maintainability]
 ---
 

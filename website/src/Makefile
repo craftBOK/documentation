@@ -3,6 +3,7 @@
 all : clean deps build
 
 clean :
+	rm -rf build || true
 	rm -rf _site || true
 
 deps :
