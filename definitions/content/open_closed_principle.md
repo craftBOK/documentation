@@ -1,6 +1,8 @@
 ---
 type: content
-tags: solid, principles
+title: Open Closed Principle
+layout: practice
+tags: [solid, principles]
 ---
 # Open Closed Principle
 

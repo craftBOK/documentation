@@ -1,6 +1,8 @@
 ---
 type: content
-tags: solid, principles
+title: SOLID
+layout: practice
+tags: [solid, principles]
 ---
 # SOLID
 

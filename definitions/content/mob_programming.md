@@ -1,6 +1,8 @@
 ---
 type: content
-tags: [practice]
+title: Mob Programming
+layout: practice
+tags: [practice, collaboration]
 ---
 # Mob Programming
 

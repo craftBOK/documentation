@@ -1,0 +1,32 @@
+<h1>Related:</h1>
+<div class="container">
+	<div class="columns">
+        {% for page in include.pages %}
+            {% if page.type == "content" %}
+                {% assign in_tag_list=false %}
+                {% for tag in include.current_page.tags %}
+                    {% if page.tags contains tag %}
+                        {% if page.url != include.current_page.url %}
+                            {% assign in_tag_list=true %}
+                            {% break %} 
+                        {% endif %}  
+                    {% endif %}
+                {% endfor %}
+                {% if in_tag_list==true %}
+		<div class="column col-3 col-lg-3 card-min-width">
+			<a href="{{ page.url }}">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://dummyimage.com/600x400/000/fff.png" class="img-responsive">
+					</div>
+					<div class="card-header">
+						<div class="card-title h5">{{ page.title }}</div>
+					</div>				
+                </div>
+            </a>
+        </div>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+	</div>
+</div>

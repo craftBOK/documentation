@@ -1,6 +1,8 @@
 ---
 type: content
-tags: solid, principles, kata
+title: Katas
+layout: practice
+tags: [principles, kata, learning]
 ---
 # Kata
 

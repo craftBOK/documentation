@@ -1,6 +1,8 @@
 ---
-category: practice
-tags: []
+title: Refactoring
+layout: practice
+type: practice
+tags: [practice, maintainability]
 ---
 
 # Refactoring
